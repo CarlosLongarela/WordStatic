@@ -29,4 +29,4 @@ WS (WordStatic) is in idea stage
 
 ## Developers
 + Carlos Longarela <carlos at longarela dot eu>
-+ You?
++ You? Why not?...
