@@ -19,6 +19,7 @@ WS (WordStatic) is in idea stage
 + [Sublime Text](http://www.sublimetext.com/ "Sublime Text") for code editing
 + [GitHub](https://github.com/ "GitHub") for share Git code
 + [SourceTree](http://www.sourcetreeapp.com/ "SourceTree") SourceTree Mercurial and Git Client
++ World brains :D
 + ...
 
 ## Libs used in project
@@ -26,6 +27,9 @@ WS (WordStatic) is in idea stage
 + [jQuery](http://jquery.com/ "jQuery") this project use jQuery 2.x, sorry, but does not support *Internet Explorer 6, 7, or 8*
 + [Font Awesome](http://fontawesome.io/ "Font Awesome")
 + ...
+
+## Reuirements (for backend system)
++ PHP >= 5.3.0
 
 ## Developers
 + Carlos Longarela <carlos at longarela dot eu>
