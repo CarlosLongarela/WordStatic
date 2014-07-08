@@ -19,6 +19,7 @@ WS (WordStatic) is in idea stage
 + [Sublime Text](http://www.sublimetext.com/ "Sublime Text") for code editing
 + [GitHub](https://github.com/ "GitHub") for share Git code
 + [SourceTree](http://www.sourcetreeapp.com/ "SourceTree") SourceTree Mercurial and Git Client
++ [Poedit](http://poedit.net/ "Poedit") Gettext Traslations Editor
 + World brains :D
 + ...
 
