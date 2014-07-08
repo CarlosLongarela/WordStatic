@@ -66,7 +66,7 @@ trait core {
 		setlocale(LC_ALL, $ws_lang);
 
 		//Sets the path for our domain, compiled mo files
-		//translation tables will be in Las tablas de traduccion estaran en __DIR__/ws-core/lang/$lang/LC_MESSAGES/$domain.mo
+		//translation tables will be in Las tablas de traduccion estaran en __DIR__/ws-core/lang/$domain.mo
 		bindtextdomain($domain, __DIR__.'/ws-core/lang/');
 
 		//select text domain
