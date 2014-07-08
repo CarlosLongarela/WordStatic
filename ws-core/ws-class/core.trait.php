@@ -73,4 +73,24 @@ trait core {
 		textdomain($domain);
 	}//end ws_lang
 
+	public function ws_create_header(){
+
+	}//end ws_create_header
+
+	public function ws_get_html_header(){
+
+	}//end ws_get_html_header
+
+	public function ws_get_html_body(){
+		
+	}//end ws_get_html_body
+
+	public function ws_get_html_content(){
+		
+	}//end ws_get_html_content
+
+	public function ws_get_html_body_end(){
+		
+	}//end ws_get_html_body_end
+
 }//end core trait
