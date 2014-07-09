@@ -1,2 +1,2 @@
 <?php
-die("SORRY I'm WORKING")
+die("YOU CAN'T ACCESS THIS FILE");
