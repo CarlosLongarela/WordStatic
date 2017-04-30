@@ -30,7 +30,7 @@ WS (WordStatic) is in idea stage
 + ...
 
 ## Reuirements (for backend system)
-+ PHP >= 7.0
++ PHP >= 7.x
 
 ## Developers
 + Carlos Longarela <carlos at longarela dot eu>
