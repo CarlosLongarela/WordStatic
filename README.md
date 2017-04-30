@@ -16,7 +16,7 @@ WS (WordStatic) is in idea stage
 + 0.01a This version with project definitions
 
 ## Tools used in project development
-+ [Sublime Text](http://www.sublimetext.com/ "Sublime Text") for code editing
++ [Visual Studio Code](https://code.visualstudio.com/ "Visual Studio Code") for code editing
 + [GitHub](https://github.com/ "GitHub") for share Git code
 + [SourceTree](http://www.sourcetreeapp.com/ "SourceTree") SourceTree Mercurial and Git Client
 + [Poedit](http://poedit.net/ "Poedit") Gettext Traslations Editor
@@ -30,7 +30,7 @@ WS (WordStatic) is in idea stage
 + ...
 
 ## Reuirements (for backend system)
-+ PHP >= 5.3.0
++ PHP >= 7.0
 
 ## Developers
 + Carlos Longarela <carlos at longarela dot eu>
